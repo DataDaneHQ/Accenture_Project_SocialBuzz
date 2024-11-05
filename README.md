@@ -2,8 +2,6 @@
 
 ![Logos](Resources/accenture_socialbuzz.png)
 
-<br>
-
 ## Welcome to the Social Buzz Content Engagement Project!
 
 **Introduction**
