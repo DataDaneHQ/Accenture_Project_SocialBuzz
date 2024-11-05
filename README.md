@@ -8,7 +8,7 @@
 
 **Introduction**
 
-This project is a comprehensive analysis of content engagement for Social Buzz, a fast-growing social media and content creation platform. As part of an advisory engagement, this project aims to identify top-performing content categories, deliver actionable insights, and support Social Buzz’s upcoming IPO preparation by leveraging data-driven strategies.
+This project is a comprehensive analysis of content engagement for Social Buzz, a fast-growing social media and content creation platform. As part of an advisory engagement with Accenture, this project aims to identify top-performing content categories, deliver actionable insights, and support Social Buzz’s upcoming IPO preparation by leveraging data-driven strategies.
 
 **Project Overview**
 
