@@ -17,7 +17,7 @@ The project follows a structured approach, covering data cleaning, modelling, an
 1. [Data Cleaning and Modelling Notebook](Resources/SocialBuzz_Jupyter_Notebook.ipynb)
     * Jupyter Notebook detailing the data cleaning, transformation, and modelling process.
 2. [Can We Confirm Monthly Post Volume?](Resources/Test_Case.ipynb)
-Jupyter Notebook demonstrating the process of analyzing content engagement patterns, testing hypotheses, and exploring monthly post volume limitations.
+    * Jupyter Notebook demonstrating the process of analyzing content engagement patterns, testing hypotheses, and exploring monthly post volume limitations.
 3. [Tableau Dashboard](https://public.tableau.com/app/profile/dane.tipene/viz/SocialBuzzProject_17304423444760/DashboardHome#1)
     * Interactive dashboard visualizing key insights on content engagement by category and content type.
 4. [Final Canva Presentation](https://www.canva.com/design/DAGVBjB5Vk8/njugTRNAlLoDeBhOs0k2Nw/view?utm_content=DAGVBjB5Vk8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
