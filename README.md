@@ -2,7 +2,8 @@
 
 ![Logos](Resources/accenture_socialbuzz.png)
 
-## Welcome to the Social Buzz Content Engagement Project!
+## Welcome to my Social Buzz Project!
+*A Forage project simulation by Accenture*
 
 **Introduction**
 
@@ -24,7 +25,5 @@ The project follows a structured approach, covering data cleaning, modelling, an
     * A structured, client-focused presentation summarizing insights, recommendations, and next steps.
 
 <br>
-
-***Note:*** *This project analysis was conducted as part of a project simulation by Accenture.*
 
 ***License:*** *All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.*
