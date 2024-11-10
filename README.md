@@ -2,7 +2,7 @@
 
 ![Logos](Resources/accenture_socialbuzz.png)
 
-## Welcome to my Social Buzz Project!
+## Welcome to the Social Buzz Project!
 *A Forage project simulation by Accenture*
 
 **Introduction**
