@@ -24,6 +24,8 @@ The project follows a structured approach, covering data cleaning, modelling, an
     * This addition goes beyond the original project requirements, reflecting my personal initiative to deepen the analysis and provide an enhanced view of engagement trends.
 4. [Final Canva Presentation](https://www.canva.com/design/DAGVBjB5Vk8/njugTRNAlLoDeBhOs0k2Nw/view?utm_content=DAGVBjB5Vk8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
     * A structured, client-focused presentation summarizing insights, recommendations, and next steps.
+5. [Completion Certificate](Resources/Accenture_Forage_Completion_Certificate.pdf)
+    * Accenture North America Data Analytics and Visualization Completion Certificate
 
 <br>
 
